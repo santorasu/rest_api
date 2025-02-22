@@ -8,9 +8,9 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 - **Error Handling & State Management**
 
 ## 🚀 Features
-✅ Fetches and displays user data from `https://jsonplaceholder.typicode.com/users`
-✅ Implements **Shimmer Effect** for smooth loading animation
-✅ Uses **BottomNavigationBar** to switch between User List and Posts API
+✅ Fetches and displays user data from `https://jsonplaceholder.typicode.com/users` <br>
+✅ Implements **Shimmer Effect** for smooth loading animation <br>
+✅ Uses **BottomNavigationBar** to switch between User List and Posts API <br>
 ✅ Error handling for failed API requests
 
 ## 🛠️ Technologies Used
@@ -45,7 +45,7 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 - Add SQLite for offline data caching
 
 ## 🔗 GitHub Repository
-[**Check out the code here**](Your GitHub Repository Link)
+[**Check out the code here**](https://github.com/santorasu/rest_api)
 
 ## 📬 Contact
 Feel free to connect with me for any feedback or collaboration! 🚀
