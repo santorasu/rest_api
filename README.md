@@ -1,16 +1,56 @@
-# restapi
+# REST API Flutter App
 
-A new Flutter project.
+## 📌 Overview
+This Flutter app demonstrates **REST API integration** by fetching and displaying user data from an API. It features:
+- **User List with API Fetching**
+- **Shimmer Loading Effect** for better UI experience
+- **Bottom Navigation Bar** for switching between Users and Posts
+- **Error Handling & State Management**
 
-## Getting Started
+## 🚀 Features
+✅ Fetches and displays user data from `https://jsonplaceholder.typicode.com/users`
+✅ Implements **Shimmer Effect** for smooth loading animation
+✅ Uses **BottomNavigationBar** to switch between User List and Posts API
+✅ Error handling for failed API requests
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- **Flutter** (Framework)
+- **Dart** (Programming Language)
+- **http** (For API Requests)
+- **Shimmer** (For Loading Effects)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Installation & Setup
+1. **Clone the Repository**
+   ```sh
+   git clone [Your GitHub Repository Link]
+   ```
+2. **Navigate to the Project Folder**
+   ```sh
+   cd restapi_flutter_app
+   ```
+3. **Install Dependencies**
+   ```sh
+   flutter pub get
+   ```
+4. **Run the App**
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📝 Future Improvements
+- Implement pagination for large datasets
+- Enhance UI/UX with more animations
+- Add SQLite for offline data caching
+
+## 🔗 GitHub Repository
+[**Check out the code here**](Your GitHub Repository Link)
+
+## 📬 Contact
+Feel free to connect with me for any feedback or collaboration! 🚀
+
+---
+
+⭐ If you like this project, don't forget to **star** the repository!
+
