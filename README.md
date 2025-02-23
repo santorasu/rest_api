@@ -23,7 +23,7 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 ## 📦 Installation & Setup
 1. **Clone the Repository**
    ```sh
-   git clone [Your GitHub Repository Link]
+   git clone https://github.com/santorasu/rest_api.git
    ```
 2. **Navigate to the Project Folder**
    ```sh
