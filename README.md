@@ -50,7 +50,4 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 ## 📬 Contact
 Feel free to connect with me for any feedback or collaboration! 🚀
 
----
-
-⭐ If you like this project, don't forget to **star** the repository!
 
