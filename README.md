@@ -47,7 +47,5 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 ## 🔗 GitHub Repository
 [**Check out the code here**](https://github.com/santorasu/rest_api)
 
-## 📬 Contact
-Feel free to connect with me for any feedback or collaboration! 🚀
 
 
