@@ -40,9 +40,9 @@ This Flutter app demonstrates **REST API integration** by fetching and displayin
 
 
 ## 📝 Future Improvements
-- Implement pagination for large datasets
-- Enhance UI/UX with more animations
-- Add SQLite for offline data caching
+- Implement pagination for large datasets.
+- Enhance UI/UX with more animations.
+- Add SQLite for offline data caching.
 
 ## 🔗 GitHub Repository
 [**Check out the code here**](https://github.com/santorasu/rest_api)
